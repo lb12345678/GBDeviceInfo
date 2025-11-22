@@ -290,6 +290,30 @@
 
                 // 15 Pro Max
                 @[@16, @2]: @[@(GBDeviceModeliPhone15ProMax), @"iPhone 15 Pro Max", @(GBDeviceDisplay6p7Inch), @460],
+                   // 16
+            @[@17, @3]: @[@(GBDeviceModeliPhone16), @"iPhone 16", @(GBDeviceDisplay6p1Inch), @460],
+            
+            // 16 Plus
+            @[@17, @4]: @[@(GBDeviceModeliPhone16Plus), @"iPhone 16 Plus", @(GBDeviceDisplay6p7Inch), @460],
+            
+            // 16 Pro
+            @[@17, @1]: @[@(GBDeviceModeliPhone15Pro), @"iPhone 16 Pro", @(GBDeviceDisplay6p1Inch), @460],
+            
+            // 16 Pro Max
+            @[@17, @2]: @[@(GBDeviceModeliPhone16ProMax), @"iPhone 16 Pro Max", @(GBDeviceDisplay6p7Inch), @460],
+            // 16e
+            @[@17, @5]: @[@(GBDeviceModeliPhone16e), @"iPhone 16e", @(GBDeviceDisplay6p1Inch), @460],
+            // 17
+            @[@18, @3]: @[@(GBDeviceModeliPhone17), @"iPhone 17", @(GBDeviceDisplay6p1Inch), @460],
+            
+            // 17 Air
+            @[@18, @4]: @[@(GBDeviceModeliPhone17Air), @"iPhone Air", @(GBDeviceDisplay6p7Inch), @460],
+            
+            // 17 Pro
+            @[@18, @1]: @[@(GBDeviceModeliPhone17Pro), @"iPhone 17 Pro", @(GBDeviceDisplay6p1Inch), @460],
+            
+            // 17Pro Max
+            @[@18, @2]: @[@(GBDeviceModeliPhone17ProMax), @"iPhone 17 Pro Max", @(GBDeviceDisplay6p7Inch), @460],
             },
             @"iPad": @{
                 // 1
