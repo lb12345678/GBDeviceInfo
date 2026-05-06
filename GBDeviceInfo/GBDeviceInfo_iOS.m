@@ -305,6 +305,8 @@
             @[@17, @5]: @[@(GBDeviceModeliPhone16e), @"iPhone 16e", @(GBDeviceDisplay6p1Inch), @460],
             // 17
             @[@18, @3]: @[@(GBDeviceModeliPhone17), @"iPhone 17", @(GBDeviceDisplay6p1Inch), @460],
+            // 17e
+            @[@18, @5]: @[@(GBDeviceModeliPhone17E), @"iPhone 17e", @(GBDeviceDisplay6p1Inch), @460],
             
             // 17 Air
             @[@18, @4]: @[@(GBDeviceModeliPhone17Air), @"iPhone Air", @(GBDeviceDisplay6p7Inch), @460],
