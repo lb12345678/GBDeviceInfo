@@ -72,6 +72,7 @@ typedef NS_ENUM(NSInteger, GBDeviceModel) {
     GBDeviceModeliPhone17Pro,
     GBDeviceModeliPhone17ProMax,
     GBDeviceModeliPhone17Air,
+    GBDeviceModeliPhone17E,
     GBDeviceModeliPad1,
     GBDeviceModeliPad2,
     GBDeviceModeliPad3,
